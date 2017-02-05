@@ -1,10 +1,11 @@
 # Mandatory settings
 
-name: Chalk
+name: CW-Note
 paginate: 25
 paginate_path: "/posts/page/:num/"
 url: # add site url http://example.com/
-blog_theme: light # Or use dark
+#blog_theme: light # Or use dark
+blog_theme: dark
 
 # Optional settings
 
