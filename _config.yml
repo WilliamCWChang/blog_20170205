@@ -24,7 +24,6 @@ social:
   #bitcoin: # Add your Bitcoin link or address
 
 # Important settings (change at own risk)
-
 assets:
   compress:
     css: true
@@ -64,4 +63,9 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-tagging
 permalink: posts/:slug
+
+# Tag_auto
+tag_page_layout: tag_page
+tag_page_dir: tag
