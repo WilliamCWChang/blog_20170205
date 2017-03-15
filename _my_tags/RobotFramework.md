@@ -1,4 +1,0 @@
----
-slug: robotframework
-name: RobotFramework
----
